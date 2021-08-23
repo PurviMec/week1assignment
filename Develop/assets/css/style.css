@@ -61,7 +61,6 @@ p {
     background-size: cover;
     background-position: center;
     background-image: url("../images/digital-marketing-meeting.jpg");
-    
 }
 
 .float-left {
@@ -113,21 +112,17 @@ p {
 .search-engine-optimization img {
     height: 250px;
     width: 35%;
-    
 }
 
 .online-reputation-management img {
     height: 250px;
     width: 35%;
-   
 }
 
 .social-media-marketing img {
     height: 250px;
     width: 35%;
     padding-left: 5px;
-    
-    
 }
 
 .content h2 {
@@ -140,7 +135,6 @@ p {
     margin-bottom: 22px;
     font-size: 23px;
 }
-
 /* Content Div Ends */
 
 /* Benifits Div Starts */
@@ -189,7 +183,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
 /* Benifit Div Ends */
+
+/* footer has been removed from html and css */
 
 
