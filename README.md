@@ -1,8 +1,8 @@
 # week1assignment
 
-css,html webpage link is as followed:
-
 [link to deploy]https://github.com/PurviMec/week1assignment.git
+
+css,html webpage link is as followed:
 
 [html file link]/Users/princy/Desktop/projects/Homework 1/Develop/index.html
 
