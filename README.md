@@ -2,7 +2,7 @@
 
 css,html webpage link is as followed
 
-[link to deploy] git@github.com:PurviMec/week1assignment.git
+[link to deploy]https://github.com/PurviMec/week1assignment.git
 
 html file link 
 /Users/princy/Desktop/projects/Homework 1/Develop/index.html
